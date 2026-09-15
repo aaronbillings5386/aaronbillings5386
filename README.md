@@ -1,6 +1,6 @@
-### Aaron Billings
+### Local builder
 
-Railroad by day. Dirt iRacing and [RangeBites](https://rangebites.com) after hours. Former FF/EMT out of Lebanon, Virginia.
+Railroad by day. Dirt iRacing and [RangeBites](https://rangebites.com) after hours. Former FF/EMT.
 
 - **RangeBites** — find food nearby · [`rangebites`](https://github.com/aaronbillings5386/rangebites) · live at [rangebites.com](https://rangebites.com)
 - On X: [@BluntRiser](https://x.com/BluntRiser)
